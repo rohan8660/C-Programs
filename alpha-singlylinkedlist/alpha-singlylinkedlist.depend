@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573855023 source:f:\cprograms\alpha-singlylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
