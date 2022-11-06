@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627039465 source:c:\users\asus\desktop\ccp\4. bank\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627034305 source:c:\users\asus\desktop\ccp\2. post\main.c
+	<stdio.h>
+	<stdlib.h>
+

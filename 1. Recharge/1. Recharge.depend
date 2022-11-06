@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627031343 source:c:\users\asus\desktop\ccp\1. recharge\main.c
+	<stdio.h>
+	<stdlib.h>
+
